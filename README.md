@@ -12,7 +12,7 @@ $$
 \rho = \frac{M}{V}
 $$
 
-Si aproximamos al planeta como una esfera de radio $R$, entonces su volumen es $ V = \frac{4}{3}\pi R³$ y por tanto la densidad queda dada por:
+Si aproximamos al planeta como una esfera de radio $R$, entonces su volumen es $V = \frac{4}{3}\pi R^3$ y por tanto la densidad queda dada por:
 
 $$
 \rho = \frac{M}{{4}{3}\pi R³}
