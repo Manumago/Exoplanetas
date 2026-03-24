@@ -56,7 +56,7 @@ $$\rho = \left( \frac{M/M_{\oplus}}{(R/R_{\oplus})^3} \right) 5.51 \, \text{g/cm
 
 Si se fija una densidad de referencia $\rho_{lim}$, de modo que:
 
-$$ \frac{\rho_{lim}}{\rho}=\frac{M}{R³}
+$$\frac{\rho_{lim}}{\rho}=\frac{M}{R³}$$
 
 y despejando el radio $R$, se tiene que:
 
