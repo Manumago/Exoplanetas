@@ -30,7 +30,7 @@ plt.figure(figsize=(10,6))
 scatter = plt.scatter(df['pl_bmasse'], df['pl_rade'], c=df['densidad'], cmap='berlin', alpha=0.7, s=20, norm=colors.LogNorm(vmin=0.1, vmax=20)) # Usar colors.LogNorm() 
 plt.colorbar(scatter, label = 'Densidad')
 # Determinamos una línea teórica de transición de rocoso a gaseoso (~3.5 g/cm3)
-plt.plot(masas, r_limite, color = 'crimson', linestyle='--', label='Límite densidad  (3.5 $g/cm^3$)')
+plt.plot(masas, r_limite, color = 'crimson', linestyle='--', label='Límite densidad  (2.5 $g/cm^3$)')
 # REferencia observacional
 plt.axhline(y = 1.5, color = 'dodgerblue', linestyle = '--', label = 'Límite rocoso (1.5R⊕ )')
 # Escalamos
