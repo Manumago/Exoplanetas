@@ -80,7 +80,7 @@ La distribución observada en el diagrama masa–radio muestra que los planetas 
 
 A medida que el radio crece más rápido que la masa, la densidad disminuye y aparecen planetas cada vez más inflados, lo cual indica que una composición rocosa no explica su tamaño, por lo cual podríamos considerar la presencia de envolturas gaseosas.
 
-Vemos entonces que la línea roja discontinua representa el límite de **2.5 g/cm³** (el promedio de la densidad de silicatos/rocas). Los puntos rojos por debajo de la línea son planetas compactos y rocosos, mientras que los puntos azules que se alejan hacia arriba de la línea representan planetas que han inflado su radio con atmósferas masivas, convirtiéndose en gigantes gaseosos.
+Vemos entonces que la línea roja discontinua representa el límite de **2.5 g/cm³** (el promedio de la densidad de silicatos/rocas), los puntos rojos por debajo de la línea son planetas compactos y rocosos, mientras que los puntos azules que se alejan hacia arriba de la línea representan planetas que han inflado su radio con atmósferas masivas, convirtiéndose en gigantes gaseosos.
 
 
 
